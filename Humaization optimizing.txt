@@ -1,0 +1,171 @@
+Task:
+Recreate and harden these two local HTML dashboards so they are functionally accurate, visually faithful, and internally consistent:
+
+1. C:\Users\Pierre Botha\OneDrive\HP envy\Documents\Codex\Novels\When God looked away\Five_Novel_Humanization_Matrix.html
+2. C:\Users\Pierre Botha\OneDrive\HP envy\Documents\Codex\Novels\When God looked away\Five_Novel_Arc_Dashboard.html
+
+Goal:
+I want to be at least 0.9 confident that the rebuilt output is accurate. Treat this as reconstruction and verification, not creative redesign.
+
+Primary instruction:
+Do not infer structure from memory. Read the actual files first, then rebuild from the files themselves.
+
+Required source files to inspect before touching anything:
+- C:\Users\Pierre Botha\OneDrive\HP envy\Documents\Codex\Novels\When God looked away\Five_Novel_Humanization_Matrix.html
+- C:\Users\Pierre Botha\OneDrive\HP envy\Documents\Codex\Novels\When God looked away\Five_Novel_Arc_Dashboard.html
+- C:\Users\Pierre Botha\OneDrive\HP envy\Documents\Codex\Novels\When God looked away\Four_Novel_Humanization_Matrix.html
+- C:\Users\Pierre Botha\OneDrive\HP envy\Documents\Codex\Novels\When God looked away\Four_Novel_Arc_Dashboard.html
+
+How to think about the work:
+These are not generic dashboards.
+They are self-contained, data-heavy HTML artifacts with inline CSS and inline JS datasets.
+Your job is to preserve the information architecture, data model, interaction logic, and visual tone, while correcting obvious defects and inconsistencies.
+
+Non-negotiable output requirements:
+- Output must remain plain local HTML files.
+- Keep them self-contained except for approved CDN dependencies already implied by the design.
+- Preserve the dark literary/research-dashboard aesthetic.
+- Preserve the tabbed layout and all current interaction patterns.
+- Preserve all five novels, including WGLa.
+- Use UTF-8 correctly throughout. No mojibake.
+- No silent omissions of data arrays, tabs, sections, badges, or chart panels.
+
+File-specific requirements
+
+A. Five_Novel_Humanization_Matrix.html
+This file is a tabbed matrix with:
+- Six novel tabs:
+  - The Burden of Silence
+  - When the Buffalo Fell
+  - In the Shadow of the Cross
+  - Theorem of the Unmade
+  - When God Looked Away
+  - Between Two Worlds
+- per-tab:
+  - calibration / corpus note block
+  - summary stat cards
+  - verdict block
+  - dimension legend
+  - expandable chapter table
+- inline datasets like:
+  - chs_tos
+  - chs_wbf
+  - chs_sotc
+  - chs_tou
+  - chs_wgla
+- summary and verdict generation functions
+- row expansion logic
+- tab switching logic
+
+Important defects to fix in this file:
+- The <title> says Five-Novel, but the visible h1 currently says Four-Novel.
+- The subtitle also still reads like a four-novel dashboard and omits WGLa.
+- Encoding artifacts must be corrected:
+  - em dashes
+  - Müller
+  - punctuation
+  - any broken smart characters
+- Preserve WGLa data and panel exactly if it is already present.
+- Do not accidentally regress to the four-novel version.
+
+B. Five_Novel_Arc_Dashboard.html
+This file is a larger chart dashboard with:
+- six top tabs:
+  - LLM Arc
+  - NRC Valence
+  - Method Compare
+  - Emotion Profiles
+  - Chapter Data
+  - Overview
+- header with five novel badges
+- many canvas charts
+- inline datasets:
+  - LLM
+  - TITLES
+  - NRC
+  - COLORS
+- tab switching via showTab()
+- chart builders for:
+  - combined arc chart
+  - per-novel arc charts
+  - NRC charts
+  - compare charts
+  - radar charts
+  - emotion comparison
+  - chapter tables
+
+Important defects to check and fix in this file:
+- Keep WGLa fully integrated across header, charts, tables, and compare views.
+- Check that all datasets have the right lengths against chapter/title arrays.
+- The file references chartjs-plugin-annotation via:
+  - window['chartjs-plugin-annotation'] || {}
+  but I did not see an explicit plugin load in the head.
+- Fix this cleanly in one of two ways:
+  1. explicitly load the annotation plugin from a stable CDN compatible with Chart.js 4.4.1
+  2. or remove annotation dependency and replace zero-line behavior with a native drawing/plugin approach that does not break rendering
+- Do not leave any chart relying on a missing plugin.
+- Fix encoding artifacts here too.
+
+Build approach:
+1. Read both six-novel files in full.
+2
+3. Determine whether the five-novel files are:
+   - proper extensions of the four-novel files
+   - or partially upgraded files with inconsistencies
+4. Rebuild the five-novel files cleanly from the actual five-novel data already present.
+5. Preserve current layout and logic unless there is a clear defect.
+6. Normalize all text encoding to real UTF-8.
+7. Validate all JS and DOM interactions in a browser.
+
+Accuracy rules:
+- Do not invent metrics.
+- Do not rewrite the datasets.
+- Do not "improve" the literary language in the note blocks unless fixing obvious corruption or inconsistency.
+- If a title, verdict, corpus note, or chapter label exists in the five-novel source, preserve it.
+- Only correct things that are objectively broken, inconsistent, or missing.
+
+Validation checklist:
+You are not done until every item below passes.
+
+General
+- Both files open locally in a browser with no fatal rendering issues.
+- Both files declare UTF-8 and visibly render special characters correctly.
+- No console errors on load.
+- No missing-function JS errors.
+
+Humanization matrix
+- Exactly 5 tabs visible.
+- WGLa tab works.
+- All tabs switch correctly.
+- Summary cards populate on every tab.
+- Verdict blocks populate on every tab.
+- Chapter tables populate on every tab.
+- Expand/collapse rows work.
+- h1, title, and subtitle all consistently reflect five novels, not four.
+
+Arc dashboard
+- Header shows all 5 novels.
+- All 6 top tabs work.
+- All charts render.
+- By Chapter / Normalised Arc toggle works.
+- Chapter tables populate.
+- WGLa appears everywhere it should.
+- No broken annotation behavior.
+- No charts silently fail because of missing plugins.
+
+Data integrity checks
+- Number of chapter labels matches number of values for each novel in each relevant dataset.
+- No truncated arrays.
+- No undefined titles in chapter tables.
+- No obvious dataset drift caused by copy/paste from four-novel files.
+
+Deliverables:
+1. Updated Five_Novel_Humanization_Matrix.html
+2. Updated Five_Novel_Arc_Dashboard.html
+3. Short verification note listing:
+   - what was fixed
+   - what was preserved exactly
+   - any unresolved uncertainty
+
+Definition of done:
+I should be able to open both files locally and feel that they are the five-novel canonical versions, not half-updated derivatives of the four-novel files.

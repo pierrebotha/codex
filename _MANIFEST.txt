@@ -1,0 +1,57 @@
+FINAL HUMANISED MANUSCRIPT — Between Two Worlds
+Folder created 26 April 2026
+
+This folder is the dedicated home for the canonical manuscript of *Between Two Worlds*
+after the Phase 1 / Phase 2.5 / Phase 2.6 / Phase 3 / Phase 4 editorial passes.
+
+It contains, when fully populated:
+
+1.  Ch1_The_Mountain_and_the_Sea-Humanized.txt
+2.  Ch2_A_Scholarship_Girl-Humanized.txt
+3.  Ch3_At_the_Edge_of_Wealth-Humanized.txt
+4.  Ch4_The_Girl_in_the_Dining_Room-Humanized.txt
+5.  Ch5_Rooms_with_Views-Humanized.txt
+6.  Ch6-The Jewish Table-Humanized.txt
+7.  Ch7_Kaapse_Light-Humanized.txt
+8.  Ch8_District_Six-Humanized.txt
+9.  Ch9 - The Price of Ease-Humanized.txt
+10. Ch10_The_British_House-Humanized.txt
+11. Ch11_A_Door_Left_Ajar-Humanized.txt
+12. Ch12_Names_for_Hunger-Humanized.txt
+13. Ch13_On_the_Mountain-Humanized.txt
+14. Ch14_The_Citys_Dark_Grammar-Humanized.txt
+15. Ch15_Men_After_War-Humanized.txt
+16. Ch16_The_Uncle_at_the_Beach-Humanized.txt
+17. Ch17_Ink_and_Judgment-Humanized.txt
+18. Ch18_Rumour-Humanized.txt
+19. Ch19_The_Glove-Humanized.txt
+20. Ch20_Letaba-Humanized.txt
+21. Ch21_The_Gate-Humanized.txt
+22. Ch22_The_Shawl-Humanized.txt
+23. Ch23_What_Remains_of_Family-Humanized.txt
+24. Ch24_To_Krugersdorp_Alone-Humanized.txt
+
+Plus:
+
+    Between Two Worlds - Canon Bible.txt   (the working canon document)
+
+These twenty-five files currently live one folder up, in
+    G:\My Drive\Codex\Novels\Between Two Worlds\
+
+and need to be moved into this folder.
+
+HOW TO COMPLETE THE MOVE IN WINDOWS EXPLORER (30 seconds):
+
+  1. Open      G:\My Drive\Codex\Novels\Between Two Worlds\
+  2. Sort by   "Date modified"  (most recent at top)
+  3. The 24 humanised chapter files plus the canon bible should all be near the top, all dated 26 April 2026
+  4. Select them (Ctrl+click each, or Ctrl+A then Ctrl+click to deselect anything that is not on the list above)
+  5. Cut         (Ctrl+X)
+  6. Navigate to G:\My Drive\Codex\Novels\Between Two Worlds\Between two worlds the novel\Final Humanised Manuscript\
+  7. Paste     (Ctrl+V)
+
+The file content does not change. Only the location does.
+
+After the move is complete you can delete this manifest if you no longer need it.
+
+— Co-worker note, end of file.

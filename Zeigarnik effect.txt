@@ -1,0 +1,80 @@
+Working Brief: Embedding the Zeigarnik Effect into Narrative Design
+
+The novel must be structured around sustained incompletion—not just at the level of plot, but at the level of perception, dialogue, and emotional resolution. The reader should move through the text with a low, continuous sense that something remains unfinished, unspoken, or slightly withheld.
+
+1. Scene Construction: Exit Before Resolution
+
+Every scene should close one beat earlier than comfort allows.
+Do not resolve the emotional or informational tension fully.
+
+A conversation ends just before the direct answer
+A realisation begins but is interrupted or displaced
+A physical action is completed, but its meaning is not
+
+The reader carries the residue forward.
+
+2. Dialogue: Withhold the Final Line
+
+Dialogue must feel almost complete, but not quite.
+
+Characters deflect instead of answering directly
+Important statements are softened, redirected, or cut short
+The most revealing line is often implied, not spoken
+
+Silence becomes the unfinished sentence.
+
+3. Micro-Tension: Incomplete Cognitive Loops
+
+Within paragraphs, create small, unresolved mental movements:
+
+A thought begins, then shifts before finishing
+An observation is made, but not interpreted
+A memory surfaces, then recedes without explanation
+
+These are the grain of the prose—tiny open loops that accumulate.
+
+4. Structural Layering: Questions Without Immediate Payoff
+
+Introduce narrative elements that linger across chapters before resolution:
+
+A name mentioned once, unexplained
+An object noticed but not contextualised
+A discrepancy that is not addressed immediately
+
+The key is delay—not absence.
+
+5. Emotional Engineering: Deny Catharsis
+
+Do not allow full emotional closure where it is expected.
+
+Grief without expression
+Relief undercut by unease
+Connection interrupted or misaligned
+
+The reader should feel the shape of resolution, but never receive it cleanly.
+
+6. Chapter Endings: Controlled Incompletion
+
+Each chapter should end with:
+
+A decision not yet acted on
+A question not yet asked
+A shift whose consequences are not yet visible
+
+Avoid dramatic cliffhangers; favour quiet incompleteness.
+
+7. Re-entry Strategy: Partial Fulfilment
+
+When returning to an unresolved thread:
+
+Provide some answer, but introduce a deeper or adjacent uncertainty
+Resolve one layer while opening another
+
+Closure must always be temporary and conditional.
+
+Governing Principle
+
+The reader is kept engaged not by constant action, but by denied completion.
+
+The story does not pull them forward.
+Their own mind does.

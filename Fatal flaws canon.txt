@@ -1,0 +1,118 @@
+The Editor’s Hit List: A Guide to Avoiding Fatal Writing Flaws
+
+Executive Summary
+
+The following document synthesizes critical insights from professional editorial perspectives on common writing failures that alienate readers. The central theme across these flaws is the "visibility of the author"—instances where the writer's hand becomes apparent, breaking the immersion of the story. Key takeaways include the necessity of grounding character traits in authentic development, the danger of repetitive or clichéd prose, and the importance of trusting the reader's intelligence. High-quality fiction requires distinct character voices, organic conflict that moves the plot forward, and an avoidance of "spoonfeeding" themes or emotional beats.
+
+
+--------------------------------------------------------------------------------
+
+
+I. Character Integrity and Authenticity
+
+1. The Perils of Forced Wit
+
+Wit is an effective tool for characterization, but it becomes "cringey" when it feels forced by the author rather than organic to the character.
+
+* The Flaw: Characters who try too hard to be clever, resulting in stilted or anachronistic dialogue.
+* The Standard: Authentic wit, such as Elizabeth Bennett’s in Pride and Prejudice, is grounded in intelligence and perspective. It reveals the character’s values and worldview rather than just serving as snark.
+* Synthesis: Wit must be a tool for character development, not a performance by the author.
+
+2. The "Perfect" Main Character
+
+Creating a protagonist with no flaws—often referred to as a "Mary Sue" or "Gary Stu"—is a surefire way to alienate an audience.
+
+* The Flaw: Describing characters as perfectly beautiful, immensely talented, and intellectually superior without any balancing vulnerabilities. This results in "inauthentic" characters who have no room for an arc.
+* Consequences:
+  * Alienation: Readers cannot relate to flawless individuals.
+  * Boredom: Without flaws, there is no internal conflict or growth.
+  * Resentment: Constant praise for a character feels like listening to an "insufferable parent" bragging about a child.
+* Correction: Identify the character’s biggest flaw and introduce it early to ensure the character feels human and well-developed.
+
+
+--------------------------------------------------------------------------------
+
+
+II. Narrative Voice and Prose Polish
+
+1. Overused "Pet Phrases"
+
+Repetitive language is a major distraction that signals amateurish writing and breaks the illusion of the story.
+
+* Intra-Scene Repetition: Using the same description (e.g., "gold-flecked eyes") multiple times in close proximity.
+* Cross-POV Contamination: A critical error occurs when different Point of View (POV) characters use the exact same unique idioms or descriptions (e.g., two unrelated characters both describing a chair as "ox-blood").
+* The Standard: Every character needs a unique vocabulary and tone based on their background. A 19-year-old rapper and a 65-year-old professor should never describe the same sunset using the same words.
+
+2. Specific Industry Clichés
+
+Certain phrases have become so overused in fiction that they trigger an "instant eye-roll" from seasoned readers.
+
+* The "Breath" Trope: "Letting out a breath they didn’t know they were holding."
+* The "Eyes" Trope: "A smile that didn't reach their eyes."
+* The "Padding" Trope: "Padding down a hall."
+* Recommendation: Replace these with original language or physical gestures, such as "the air hissed behind her teeth" or "shoulders relaxing."
+
+
+--------------------------------------------------------------------------------
+
+
+III. Dynamics of Conflict and Plot
+
+1. Unnecessary and Immature Miscommunication
+
+Conflict should stem from actual issues, not from characters refusing to speak like adults.
+
+* The Flaw: Plot-blocking conversations where characters refuse to listen to vital information (e.g., "I have nothing to tell you!" / "But Mary is—" / "No! [Hangs up]").
+* Impact: This creates "stagnation" and "contrived drama" that feels manufactured for the sake of the plot rather than the characters.
+* The Standard: Miscommunication is only acceptable if a character is intentionally hiding something. Otherwise, adult characters should communicate like adults to keep the plot moving toward more substantial conflicts.
+
+2. Artificial Drama and Lack of Stakes
+
+* Low-Substance Tension: Scenarios where a simple one-sentence clarification would resolve the entire conflict (e.g., assuming a love interest is cheating when they are actually with a sibling).
+* Zero-Consequence Writing: When characters escape every problem without lasting impact. This kills tension because if nothing is at stake, the reader has no reason to care.
+* Lazy Resolutions: Giving characters new abilities or knowledge "out of nowhere" specifically to solve a plot problem.
+
+
+--------------------------------------------------------------------------------
+
+
+IV. Dialogue and Humor
+
+1. Unrealistic Dialogue Standards
+
+Bad dialogue is described as the "literary equivalent of nails on a chalkboard." Realistic speech is messy, rhythmic, and often incomplete.
+
+Fatal Dialogue Flaws	Description
+Over-explaining	Characters stating facts they both already know just to inform the reader.
+Stilted Formality	Using overly formal language with close friends or family.
+Explicit Emotion	Characters saying exactly how they feel aloud, which rarely happens in real conversations.
+
+* The "Stress Test": Authors should read their dialogue out loud. If the writer trips or stumbles, the flow is unnatural and requires revision.
+
+2. Misplaced Humor
+
+Humor is subjective and exceptionally difficult to write. It fails most often when it is "forced where it doesn't belong."
+
+* The Tonal Clash: Inserting a joke during a high-stakes, intense climax (e.g., a character making a quip about their psychic while a killer points a gun at them).
+* The Result: This causes the character to appear as if they are shrugging off death, which kills the intensity of the scene and takes the reader out of the story.
+
+
+--------------------------------------------------------------------------------
+
+
+V. Structural Integrity and Reader Trust
+
+1. Spoonfeeding the Ending
+
+One of the most significant errors a writer can make is failing to trust the reader's intelligence at the conclusion of the work.
+
+* The Flaw: Spelling out the themes, sacrifices, and meanings literally (e.g., "He needed to sacrifice himself for the good of the world").
+* The Standard: Powerful endings allude to the point rather than stating it. If the groundwork and themes have been built organically, the final scene will resonate without being over-explained.
+
+2. Title and Format Trends
+
+While subjective, certain trends—such as the "A [Thing] of [Thing] and [Other Thing]" title format—have become so prevalent that some readers may avoid them entirely, though this is a matter of individual taste rather than a universal writing flaw.
+
+3. Conclusion on Reader Subjectivity
+
+While reader tastes are ultimately subjective, avoiding these "hit list" flaws ensures a story resonates more widely by maintaining immersion, protecting character integrity, and respecting the audience’s ability to interpret the narrative.

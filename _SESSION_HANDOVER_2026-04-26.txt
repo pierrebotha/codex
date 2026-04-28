@@ -1,0 +1,309 @@
+SESSION HANDOVER — Between Two Worlds editorial pass
+Date:          26 April 2026
+Author:        Pierre Botha
+Co-worker:     editorial collaborator (resumes here next session)
+Folder:        G:\My Drive\Codex\Novels\Between Two Worlds\Between two worlds the novel\Final Humanised Manuscript\
+Sister files:  Between Two Worlds - Canon Bible.txt (in same folder after move)
+               _MANIFEST.txt (in same folder)
+
+================================================================================
+SESSION OUTCOME
+================================================================================
+
+Twenty-four canonical chapters of *Between Two Worlds* are humanised, mechanically
+clean, and now coherent against a substantially clarified canon bible. The novel
+runs from Ch1 (Ruth's January 1949 train south to Cape Town) through Ch24 (her
+mid-January 1951 train north to Krugersdorp). Total novel word-count is
+approximately 102,000-105,000 words after this session's editorial work.
+
+The novel's structural argument — Ruth carries the Afrikaner-Scots-English
+divide as cultural backbone; Lena's saving and withholding share one body; Anna
+is the only character who wants what she can have and gets it; the Cohen
+complicity is visible to the reader through prose architecture before it is
+visible to Ruth — is now wired into the prose at every chapter where it
+operates.
+
+================================================================================
+CANON DECISIONS MADE THIS SESSION
+================================================================================
+
+1.  Anna MacLeod is eight to nine years younger than Ruth. Ten in 1949,
+    eleven from October 1949, twelve in October 1950. Grand mal (tonic-clonic)
+    seizures since age four. Chronic chest condition that compounds the
+    seizures: the chest weakens the post-ictal recovery of the breath. June is
+    the worst month (the chest does not like the cold). Doctor Caldwell at
+    Pietersburg has known her since age four. Anna survives this novel intact.
+    Her canonical death occurs approximately three books hence: a stroke
+    following a seizure (status-epilepticus complication producing an ischaemic
+    event). Ruth is at Anna's deathbed when it comes.
+
+2.  William MacLeod (Willi at home, William outside the house) is six to seven
+    years younger than Ruth. Twelve in 1949. Attends the Merensky Farm School
+    where Pa teaches. Won the second-place Latin prize at Merensky in 1949.
+    First woodwork project: a wooden stool he made for Anna's stoep at the
+    farm, the cat sometimes claims it. Bilingual at home. He is a child and
+    the novel does not ask him to do adult work.
+
+3.  W. J. MacLeod (Pa) is English-Scots. Long-serving teacher at Merensky Farm
+    School (the lowveld farm school in the Letaba/Tzaneen area established
+    under the Merensky Trust). Runs the farm at Letaba alongside the teaching;
+    school holidays are farm-work full-time. Reflex language: ENGLISH ONLY.
+    Greets in *Good morning*, never *Goeiemôre*. Understands Afrikaans, does
+    not speak it. Brief plain English register at the kitchen door, the supper
+    table, the platform. Drove Ruth down to St Joseph's Pietersburg in '44 in
+    the dry winter and sat at the parlour for three hours with the
+    matriculation certificate in his coat pocket until they took her name for
+    the matric class. Lena did not know he had gone until the place was
+    confirmed. He has not, in any of the years since, asked Ruth about the
+    scholarship. The not-saying is the saying.
+
+4.  Lena MacLeod is Afrikaans. Born of the lower Soutpansberg farms. Her
+    grandmother stitched the dark wool shawl that comes down through the
+    family. Reflex language: AFRIKAANS ONLY. Speaks only the canon-permitted
+    English at structural moments: the Ch21 *Dit is my huis. Nie joune nie* /
+    *This is my house. Not yours.* second-half English; the *Yes, Doctor* to
+    Hayes-Whittaker in Ch22.
+
+5.  Household bilingual pattern: each parent speaks their own language by
+    reflex. Ruth, William and Anna grew up bilingual, addressing Pa in English
+    and Lena in Afrikaans. Sentences in the kitchen sometimes change language
+    mid-clause depending on which parent is being addressed.
+
+6.  Catherine MacLeod is Pa's first cousin, English colonial Kenilworth. Has
+    not been to the farm since before Willi was born. Pa has not been to
+    Kenilworth since before the war. They send the Christmas card. Catherine
+    introduced to Ruth via the Ch17 cream-card-in-the-pigeonhole plant; lent
+    Ruth the small flat above her garage in December 1949; refused entry to
+    the doctor's house in the Ch22 crisis by Lena's no.
+
+7.  Boet van Eden is the Afrikaans family-friend driver. Twenty-eight in 1949.
+    Has had a quiet eye on Ruth for the four years since she was fourteen.
+    Eye not encouraged or refused; he has decided long ago that it would not
+    be enacted unless Ruth one day asked it to be. Drives the lorry on the
+    practical errands the household requires (Tzaneen syndicate, Pietersburg
+    alternator, Ruth to and from the Politsi turn-off, Pa and Lena south to
+    Cape Town for Ruth's Ch22 near-death). Will play a substantial role in
+    the next book. Seeded in Ch20 (kitchen door entry), Ch21 (drives Ruth
+    out), Ch22 (south for the Cape Town crisis, at the boarding house, comes
+    to the doctor's front room every morning at nine), Ch23 (noon arrival at
+    the shed, eats with Ruth and Anna at the workbench, drives Ruth to
+    Pietersburg), Ch24 (stands at the far end of Cape Town's Platform Three
+    at the Krugersdorp departure, having come south on the goods train two
+    days before).
+
+8.  Geographic canon: farm is **Letaba Estates** near Letsitele in the
+    Northern Transvaal (real place); residence is **General Botha Hall** at
+    UCT (the Boer general turned Empire-statesman, the institutional mirror
+    of the family's English-Scots-Afrikaner fracture); Brownlow Road in
+    Tamboerskloof for the Clara salon (Ch11); Catherine's Kenilworth address
+    is *Edenholm, Lower Bishop's Avenue, Kenilworth*.
+
+9.  Judith is Cohen, not Marais. The Brownlow Road rooms are her literary
+    independent rooms above the salon, distinct from the Cohen Sea Point
+    apartment. Hampshire return address in her Ch17/Ch18 letter is her
+    mother's English family connection.
+
+10. Ch22 is the structural summit at valence 10. Ruth's near-death from the
+    Wynberg level crossing: right kidney removed by Doctor Hayes-Whittaker;
+    left kidney passive at first; saved by water-feeding regimen (half a cup
+    every twenty minutes for ninety-six hours) administered first by the
+    doctor's wife and Judith Cohen, then from Wednesday evening by Lena. Pa
+    came south with Lena. Boet drove them to Pietersburg, came on later. The
+    canonical exchange: Ruth's three statements of recognition, *Then look at
+    me*, Lena's eyes moving up the white sheet to Ruth's hands and away to
+    the lace half-curtain, *Something inside Ruth ceased its labour*, the
+    chapter close *No one answered*. Anna does NOT die in this novel.
+
+================================================================================
+PHASE WORK COMPLETED THIS SESSION
+================================================================================
+
+PHASE 1 — Six surgical insertions in Ch20–Ch24 (the chapters this co-worker
+rewrote earlier in the session) for want-and-gap visibility:
+
+    Ch20: Pa-Merensky exercise-books-on-the-dresser beat
+    Ch21: William account of Pa-Lena divide (later removed in Phase 2.6 with
+          the William age correction)
+    Ch21: Anna sovereignty beat (later child-shaped in Phase 2.6)
+    Ch22: Ruth interior cups-and-eyes inseparability beat
+    Ch23: Pa-pushing-Ruth-to-St-Joseph's beat (later moved from spoken to
+          Ruth's interior in Phase 2.6)
+    Ch24: bump-up + Ruth's seeing visible (1,400 words added)
+
+PHASE 2 — Diagnostic read of Ch12-Ch18 (previous Opus session's work).
+Identified surname collision (Roth vs MacLeod), residence name collision
+(Fuller Hall vs General Botha Hall), farm name collision (Vyfontein vs Letaba
+Estates), Judith Marais-vs-Cohen collision, William age collision, Hannah Roth
+as undocumented major character.
+
+PHASE 2.5 — Sweeps and plants in Ch17 and Ch18:
+
+    Ch17: 11 Roth → MacLeod corrections
+    Ch18: 13 Roth → MacLeod corrections + one related "Jewish girl" → "scholarship girl"
+    Ch17: cultural divide named in Ruth's interior (Section II Lena letter draft)
+    Ch17: Anna letter plant (Section IV)
+    Ch17: Catherine MacLeod card plant (Section V)
+    Ch17, Ch18: Fuller Hall → General Botha Hall sweep
+    Ch17: Vyfontein → Letaba Estates
+    Ch17: Marais → Cohen for the J. Cohen address
+    Ch19, Ch20: Letaba Estate → Letaba Estates (plural, matching the real-world place)
+
+PHASE 2.6 — Age and character corrections to Ch19–Ch24 after Pierre's clarification
+that Anna is 8-9 yrs younger and William is 6-7 yrs younger:
+
+    Ch17: Willi and Anna letters revised for child voices (Ch17 letter
+          addressee Pa, not William; Willi's woodwork stool replaces the
+          off-canon Latin certificate)
+    Ch19: telegram from Pa (signed PA), Ruth's reply addressed to Pa, "letter
+          to William" sweep to "letter to Pa"
+    Ch20: Anna's wicker-chair scene revised for ten-year-old child; Willi at
+          twelve at the kitchen door; Boet introduced at the farm
+    Ch21: Anna's stoep scene revised for child voice; Boet replaces William as
+          lorry driver to Politsi turn-off; Phase 1 William monologue replaced
+          with shorter Boet observation; unposted letter to Pa (not William)
+    Ch22: Pa replaces William at the Hayes-Whittaker bedside; Boet seeded in
+          the Cape Town crisis (drove Pa and Lena south, at the boarding
+          house, comes to the doctor's front room every morning)
+    Ch23: Pa replaces William in the shed; Anna at eleven; Pa-pushing-Ruth
+          beat repositioned as Ruth's interior recognition; Boet at noon and
+          then drives Ruth to Pietersburg
+    Ch24: Boet seeded on Cape Town Platform Three for the Krugersdorp
+          departure (came south on the goods train two days before with a
+          consignment)
+
+PHASE 3 — Cultural divide threaded through Ch1–Ch9 via small surgical
+insertions in the previous Opus session's already-clean prose:
+
+    Ch1: Lena's Afrikaans at the wood stove (with her line in Afrikaans:
+         *Die trein sal nie vir jou pryse wag nie, Ruth*); Pa's English-only
+         reflex named at the kitchen table; bilingual childhood named at the
+         farm-departure flashback; Afrikaans-she-will-not-hear-in-Cape-Town
+         forecast
+    Ch2: Arbuthnot's "name with the north in it" anchor (Pa's Scots, Lena's
+         Afrikaans)
+    Ch3: Cohen kitchen audibility before Ruth's first dining-room entrance
+         (sounds and smells from beyond the half-open service door)
+    Ch4: Cohen kitchen audibility expanded before Sarah's first soup entrance
+    Ch5: 1934 library slip read with Afrikaans cadence in the English; Willi's
+         hand on the unopened-letter-on-the-desk (was William)
+    Ch6: Cohen kitchen audibility before second-dinner Sarah; Ruth's drying-
+         bowls rhythm named as Lena's Afrikaans rhythm (*Onder eerste, dan op*)
+    Ch7: Radia's Afrikaans annotated as different from Ruth's lower-
+         Soutpansberg Afrikaans (the two-Afrikaanses canon)
+    Ch9: Silk-square paragraph extended to name what the divide has cost
+         (Lena's grandmother's wool shawl as the canonical counterpoint to
+         the Cohen silk)
+
+PHASE 4 (PARTIAL — in progress when session ended) — word-count rebalancing.
+Ch3 bumping mid-execution: Ch3 was 2,120 words and the target floor is 3,500.
+Four of the seven planned insertions were completed in this turn (Esther-
+geometry-of-the-sending paragraph at the library invitation; residence
+bathroom expansion with the lemon-scarf girls' tennis afternoon overheard;
+the silk-square ten-month carrying named at the unpacking; the lobby with
+brass plate, lift cage, third-floor door visible-through-grille). Ch3 stands
+at approximately 3,400 words mid-bump. Three Ch3 insertions remain (deeper
+sea-air walk-to-the-building; refined first-meeting beat; closing-door
+interior anchor) to take the chapter to roughly 3,800.
+
+Other Phase 4 work outstanding:
+
+    Ch11 bump (~80 words to clear floor)
+    Ch13 bump (~160 words)
+    Ch19 bump (~500 words to clear floor)
+    Ch12 tightening (~5,800 to ~4,500; cut 1,300)
+    Ch17 tightening (~5,850 to ~4,500; cut 1,350)
+    Ch10 tightening (~5,210 to ~4,500; cut 700)
+    Ch8 tightening  (~5,130 to ~4,500; cut 600)
+    Minor tightening on Ch16 (~4,920), Ch7 (~4,940), Ch20 (~4,850), Ch14
+        (~4,800), Ch9 (~4,780), Ch1 (~4,950 after Phase 3), Ch6 (~4,660),
+        Ch18 (~4,620). Most of these are within editorial tolerance and can
+        be left alone or polished lightly.
+
+================================================================================
+PHASE 5 (PLANNED) — END-OF-PASS COMPLETE AUDIT
+================================================================================
+
+Pierre asked for a complete audit at the end of Phase 4. Scope:
+
+    Mechanical sweep across all 24 chapters for the full fingerprint discipline
+        list (em-dashes, prohibited vocab, capital-quoted abstractions,
+        negation-reversal patterns, industry clichés, surname collisions,
+        canon-name collisions, period accuracy)
+    Continuity sweep (does each character's appearance and arc tie cleanly
+        across all chapters; do Anna's age progressions stay consistent;
+        does Boet's seeding sustain; do the Ch11 salon women carry through;
+        does Catherine's introduction in Ch17 pay off in Ch21–Ch23)
+    Want-and-gap visibility check (does each character close the novel with
+        their want-and-gap visible to the reader; does the Cohen complicity
+        architecture hold across Ch3–Ch4–Ch6–Ch9; does Lena's saving-and-
+        withholding inseparability land at Ch22)
+    Reading order verification chapter-by-chapter
+
+================================================================================
+FILE LOCATIONS AFTER PIERRE'S MANUAL MOVE
+================================================================================
+
+The manuscript folder is:
+    G:\My Drive\Codex\Novels\Between Two Worlds\Between two worlds the novel\
+    Final Humanised Manuscript\
+
+It will, after Pierre's Windows Explorer move, contain:
+    _MANIFEST.txt
+    _SESSION_HANDOVER_2026-04-26.txt   (this file)
+    Between Two Worlds - Canon Bible.txt
+    Ch1_The_Mountain_and_the_Sea-Humanized.txt
+    [...the remaining 23 chapters in chapter order...]
+    Ch24_To_Krugersdorp_Alone-Humanized.txt
+
+Original off-canon expansion files (Ch1_Expanded-Humanized.txt etc.) are
+stranded artefacts of the discarded expansion phase. They sit at roughly 33
+KB each, contain the off-canon Copilot expansion content, and can be deleted
+or moved to retired/ at any time without affecting the manuscript.
+
+The previous-session backups in retired/ folders can stay or be removed at
+Pierre's discretion; they are not used by any subsequent work.
+
+================================================================================
+HOW TO RESUME TOMORROW
+================================================================================
+
+1. Confirm the manual file move completed (the 24 chapter files plus the
+   canon bible should now be in the Final Humanised Manuscript folder).
+
+2. Read this handover document to refresh the canon decisions and the
+   work-in-progress state.
+
+3. Resume Phase 4 with the three remaining Ch3 insertions to take that
+   chapter from ~3,400 to ~3,800. The chapter ends, canonically, at the
+   service door swinging closed before Ruth enters the dining room. Do not
+   cross that door. The dinner is Ch4's territory.
+
+4. Then Ch11 (~80 words), Ch13 (~160 words), Ch19 (~500 words) for the
+   under-floor chapters.
+
+5. Then the substantial tightening pass on Ch12 (~1,300 to cut), Ch17
+   (~1,350 to cut), Ch10 (~700 to cut), Ch8 (~600 to cut). These are slow
+   editorial reads; recommend doing one chapter per turn.
+
+6. Then Phase 5 — end-of-pass complete audit.
+
+================================================================================
+OPEN ITEMS / DEFERRED DECISIONS
+================================================================================
+
+* Hannah Roth (the Jewish photographer in Ch11–Ch18) is canonical but not
+  yet documented in the canon bible. Add her to the canon bible at the
+  next pass.
+
+* The Ch7 Thomas Lawrence reference in the colour-of-the-veranda passage
+  predates the Ch10/Ch16 first-meeting canon. Reconcile in the end-of-pass
+  audit (likely amend Ch7 to reference the colour by occasion rather than
+  by name, OR accept that Ruth has heard of Thomas before meeting him).
+
+* The Ch11 salon women (Clara, Frances, Hannah, Mathilde) — their continuity
+  through Ch12–Ch24 needs verification in the end-of-pass audit.
+
+* The off-canon expansion files in the root folder (Ch1_Expanded-Humanized.txt
+  etc.) should be deleted or moved to retired/ for cleanliness.
+
+End of handover.

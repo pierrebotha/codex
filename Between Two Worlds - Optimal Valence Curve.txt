@@ -1,0 +1,648 @@
+BETWEEN TWO WORLDS — OPTIMAL VALENCE CURVE
+Full 24-Chapter Emotional Architecture
+
+Authored in consultation with Between Two Worlds - Rewrite Blueprint.txt and Between Two Worlds - Canon Bible.txt.
+This document is a structural design specification and deviation audit, not a prose draft.
+
+
+================================================================================
+I. GOVERNING PRINCIPLES
+================================================================================
+
+WHAT THIS DOCUMENT IS FOR
+The valence curve is the emotional spine of the novel. It specifies the dominant
+pressure level of each chapter — not its prose tone, not its subject matter, but
+the amount of forward tension the reader should feel as they move through it. A
+chapter scored at 4/10 is not a failure. It is structural breathing room. A
+chapter at 9/10 is not automatically climactic. It is pressure-building. The
+placement of each chapter on the curve, and its relationship to the chapters
+immediately before and after it, is the architecture that prevents hedonic
+adaptation and keeps the reader in a state of sustained incompletion.
+
+THE VALENCE SCALE
+  1-2    Repose or reflective low pressure. The world settles.
+  3-4    Warm but unsettled. Forward curiosity, low threat.
+  5-6    Active tension and forward pull. Something is at stake, but not yet in crisis.
+  7-8    Strong danger, rupture, or moral pressure. The reader leans forward.
+  9-10   Peak emotional or narrative crisis. Survival, rupture, catastrophic recognition.
+
+CORE DESIGN RULES
+
+Rule 1 — No sustained plateau.
+Never allow more than two consecutive chapters in the same pressure band (within
+1 point of each other). The third chapter must either rise or fall by at least 2
+points. A plateau kills forward momentum more reliably than any single bad scene.
+
+Rule 2 — Every high requires a corrective dip.
+After any chapter at 8 or above, the next chapter must drop to 6 or below. This
+is not a weakness in the structure. It is the reader's breath being given back
+before the next compression. Without the dip, the reader goes numb.
+
+Rule 3 — The curve is not a single arc.
+It does not simply rise from Ch1 to the summit and descend. It oscillates within
+an ascending envelope (Part I-III) and a descending envelope (Part IV), with two
+distinct peaks — one physical, one relational — and a secondary low at the
+opening of Part IV before the final ascent to Ch22.
+
+Rule 4 — Warmth chapters carry undertow.
+Any chapter in the 3-5 range must contain at least one element of structural
+unease: class shame, threatened community, political shadow, or unsettled desire.
+Pure warmth without undertow is not comfort for the reader. It is flatness.
+
+Rule 5 — The symmetry principle.
+Symmetry here does not mean a mirror image. It means that the emotional weight of
+the novel's opening arc is architecturally balanced against the emotional weight
+of its closing arc. The pivot is Chapter 13 (On the Mountain) — the midpoint of
+the 24-chapter structure and the site of the first peak. Chapters 1-12 are the
+ascent envelope; Chapters 14-24 are the descent-and-final-rise envelope. The
+novel does not end where it began. It ends, not at collapse, but at costly motion.
+
+Rule 6 — Ch22 is the summit, not the end.
+The emotional maximum of the book (Ch22, The Last Argument, 10/10) is not the
+final chapter. Two chapters follow it. This is the correct architecture. A novel
+that ends on its maximum has nowhere to resolve. Chapters 23-24 are the moral
+landing: grief, then chosen motion. They must read as active, not as aftermath.
+
+HEDONIC ADAPTATION PREVENTION
+The reader's emotional response to sustained high pressure flatlines within two
+chapters if the intensity is not relieved. The curve has been designed so that
+relief chapters (3-5 range) appear predictably after each escalation cluster,
+and the source of tension shifts each time the pressure rebuilds: first social,
+then cultural, then erotic, then bodily, then political, then epistolary, then
+communal — so even when the pressure level is similar, the form of the threat
+is new.
+
+
+================================================================================
+II. THE OPTIMAL VALENCE CURVE — CHAPTER BY CHAPTER
+================================================================================
+
+PART I — THE CITY OPENS (Ch1-5)
+Opening envelope goal: above neutral but not full pressure.
+Ruth enters damaged and free. The city is seduction and vertigo simultaneously.
+The reader should feel the promise of enlargement crossed with exposure.
+No chapter in Part I should exceed 7. The reader is in the induction phase.
+
+  Ch  Title                        Optimal   Actual   Delta   Dominant Register
+  --------------------------------------------------------------------------------
+  1   The Mountain and the Sea       6         5.5      -0.5   Awe crossed with dislocation.
+                                                               The city is beauty and threat simultaneously.
+                                                               Identification arrival: this is Ruth's first act of
+                                                               autonomous self-presentation after the convent.
+
+  2   A Scholarship Girl             5         5        0      Disciplined striving under social scrutiny.
+                                                               The reader feels that belonging is possible but
+                                                               only by passing tests whose rules Ruth cannot
+                                                               fully read.
+
+  3   At the Edge of Wealth          6         6.5      +0.5   Seduction crossed with shame. The invitation
+                                                               inward sharpens what Ruth lacks. The Cohen
+                                                               world is warm and alien in the same breath.
+
+  4   The Girl in the Dining Room    7         7        0      Moral sting. Irreversible perception.
+                                                               Ruth sees Sarah. The evening's grace depends on
+                                                               hidden labour. This is the hinge chapter of Part I.
+                                                               The chapter must land exactly here — not higher
+                                                               (which collapses the induction phase) and not lower
+                                                               (which defers the moral awakening too long).
+
+  5   Rooms with Views               5         4.5      -0.5   Upward motion under self-surveillance.
+                                                               Access is gained, but the price of self-curation
+                                                               begins to announce itself. Ends with William's
+                                                               letter deliberately unread — the first planted seed
+                                                               for the Part IV break.
+
+PART I ARC SHAPE
+6 → 5 → 6 → 7 → 5
+The part rises to a sharp moral point at Ch4 and then deliberately drops before
+Part II opens. This prevents the reader from arriving at the Part II warmth
+chapters already saturated. The corrective dip at Ch5 is not relief from
+tension — it is the reader watching Ruth choose comfort over her own conscience
+(the unread letter is the structural proof).
+
+---
+
+PART II — ROOMS OF PRIVILEGE, STREETS OF EXCLUSION (Ch6-10)
+Middle expansion goal: cultural richness with undertow.
+Each pleasurable chapter carries a shadow. The reader should feel Ruth's world
+widening faster than her capacity to interpret it. No two consecutive chapters
+at the same level.
+
+  Ch  Title                        Optimal   Actual   Delta   Dominant Register
+  --------------------------------------------------------------------------------
+  6   The Jewish Table               4         4        0      Warmth, longing, and distance. This is the
+      [HIGH RISK — see notes]                                  book's first real domestic exhale. The warmth is
+                                                               genuine and must not be undercut cheaply.
+                                                               BUT: the chapter must end with Ruth lonelier,
+                                                               not more settled. And unlike its current state,
+                                                               it MUST carry one fracture element: David's
+                                                               political photographs, Marcus, or the Group Areas
+                                                               petition. Without a fracture, this chapter reads
+                                                               as pure comfort — which violates Rule 4.
+
+  7   Kaapse Light                   6         6        0      Cultural intoxication with a shadow beneath.
+                                                               Joy becomes suspense because the reader feels how
+                                                               precarious this world is. Ruth falls in love with
+                                                               Kaapse culture before politics names it. The
+                                                               correct register for the Thomas veranda scene
+                                                               and the figure in the window arrest at close.
+
+  8   District Six                   6         —        —      Expansion, energy, and threatened beauty.
+                                                               The reader's attachment to the city becomes
+                                                               genuine emotional stake, not scenery. This
+                                                               chapter must not be darker than Ch7 — the
+                                                               plural life of the district should remain joyful
+                                                               enough to explain why its later destruction
+                                                               will wound Ruth personally.
+
+  9   The Price of Ease              7         —        —      Inner division and social guilt. Ruth is more
+                                                               comfortable in polished social settings, and that
+                                                               comfort now carries weight. Someone from her
+                                                               marginal circles sees her differently. A Jewish
+                                                               friend reveals vulnerability beneath polish.
+                                                               This chapter echoes Ch4's hinge function at a
+                                                               higher emotional altitude.
+
+  10  The British House              5         —        —      Fascination edged with unease. This chapter
+                                                               functions as a deliberate pressure-release valve
+                                                               before Part III opens. The Aunt's household is
+                                                               stable enough on the surface to lower the reader's
+                                                               guard. The uncle's instability is felt rather
+                                                               than named. Part II ends one beat before it
+                                                               should feel resolved.
+
+PART II ARC SHAPE
+4 → 6 → 6 → 7 → 5
+The part opens in warmth (Ch6), rises through cultural expansion (Ch7-8), peaks
+in social division (Ch9), and releases into formal British surface ease (Ch10)
+before Part III's opening spike. The opening of Ch6 being the lowest point of
+Part II is architecturally essential: it ensures the reader gets the breathing
+room they need after Ch5's self-curation close, before the long escalation of
+Part III begins.
+
+NOTE ON CONSECUTIVE 6s (Ch7-8):
+This is the only permitted consecutive-same-level pair in the design. The
+justification is that Ch7 and Ch8 cover different cultural worlds (Kaapse
+domestic versus District Six public) and carry genuinely different registers
+(intimate versus plural). The undertow must be kept distinct between them:
+Ch7 ends on domestic precarity; Ch8 ends on the explicit political threat to
+the district. If either chapter fails to establish that distinction in the
+prose, one must be regraded.
+
+---
+
+PART III — DANGEROUS FREEDOMS (Ch11-18)
+Sustained escalation goal: braided pressure from alternating sources.
+Erotic, bodily, political, atmospheric, epistolary, and social danger take turns
+as the primary driver, so even when the pressure level is similar from chapter to
+chapter, the texture of the threat is new. This section contains the first peak
+(Ch13, 9/10) and sustains a high floor (no chapter below 6) throughout.
+
+  Ch  Title                        Optimal   Actual   Delta   Dominant Register
+  --------------------------------------------------------------------------------
+  11  A Door Left Ajar              8         —        —      Charged discovery. The threshold crossed.
+                                                               Ruth enters the queer social world by curiosity,
+                                                               not manifesto. The novel crosses a line that
+                                                               cannot be uncrossed. The chapter MUST end before
+                                                               full recognition arrives — Zeigarnik requires
+                                                               that the door only be ajar, not open.
+
+  12  Names for Hunger              8         —        —      Yearning, fear, and self-recognition. Desire as
+                                                               inward struggle. No source of tension is resolved
+                                                               this chapter — the 8 matches Ch11 because this
+                                                               is an interior deepening, not an external spike.
+                                                               The distinction from Ch11: Ch11 is about the
+                                                               world becoming legible; Ch12 is about Ruth
+                                                               becoming legible to herself.
+
+  13  On the Mountain               9         —        —      FIRST PEAK. Physical terror and humiliating
+                                                               exposure. The book spikes outward. After the
+                                                               inward revelations of Ch11-12, the body itself
+                                                               is put in danger. The mountain becomes a rebirth
+                                                               site. This chapter's placement at the exact
+                                                               midpoint of the arc (Ch13 of 24) is structural —
+                                                               the first peak is at the midpoint, not at the end,
+                                                               so the second peak (Ch22) has maximum force by
+                                                               comparison. Survival here is physical. Survival
+                                                               at Ch22 is moral.
+
+  14  The City's Dark Grammar       8         —        —      Corrective dip is not possible here because the
+                                                               political arc cannot cool after the mountain.
+                                                               But the SOURCE shifts: from bodily (Ch13) to
+                                                               structural political. This prevents Ch14 reading
+                                                               as continuation of the same crisis. Someone in
+                                                               Ruth's Coloured or District Six world is stopped,
+                                                               humiliated, or endangered. External danger
+                                                               replaces internal fear.
+
+  15  Men After War                 6         —        —      CORRECTIVE DIP after the Ch13-14 intensity
+                                                               cluster. This is the designed breathing chapter
+                                                               between the two peaks of Part III. The register
+                                                               is melancholy and menacing rather than acute
+                                                               danger. Male postwar damage is witnessed rather
+                                                               than experienced. The reader's blood pressure
+                                                               lowers. The uncle's instability seeds Ch16.
+
+  16  The Uncle at the Beach        7         —        —      Recovery from the dip: not full escalation, but
+                                                               the uncanny enters. The uncle's disappearance
+                                                               contaminates the idea of freedom-as-escape. Ruth
+                                                               feels terror and identification simultaneously.
+                                                               This chapter resumes the accent after Ch15's
+                                                               release, rebuilding pressure before the final
+                                                               Part III cluster.
+
+  17  Ink and Judgment              8         —        —      The epistolary hinge. Letters become the site
+                                                               of danger. The private self and the family self
+                                                               can no longer be kept apart on the page. Lena's
+                                                               tone turns cold. One letter is unresolvable.
+                                                               The source of threat has now rotated from bodily
+                                                               (Ch13) to political (Ch14) to atmospheric (Ch15)
+                                                               to uncanny (Ch16) to relational-epistolary (Ch17).
+
+  18  Rumour                        9         —        —      SECOND PARTIAL PEAK. Private life enters social
+                                                               risk. What Ruth has felt internally is now
+                                                               vulnerable to public naming. This chapter does
+                                                               not reach 10 because Ch22 is the true summit —
+                                                               to score this chapter equal to Ch22 would
+                                                               dilute the mother-daughter rupture beyond repair.
+                                                               The 9 here is a near-peak: exposure is imminent
+                                                               and the machinery of judgment has started, but
+                                                               the rupture itself has not yet landed.
+
+PART III ARC SHAPE
+8 → 8 → 9 → 8 → 6 → 7 → 8 → 9
+The section opens high (Ch11), sustains and deepens (Ch12), spikes to first peak
+(Ch13), stays high but shifts source (Ch14), releases deliberately (Ch15), rises
+again through the uncanny (Ch16), returns to high through letters (Ch17), and
+builds to near-peak at the close (Ch18).
+
+The essential design feature is the Ch15 valley: score 6, after two 8s and a 9.
+Without this valley, Part III is a wall of pressure that numbs rather than
+compels. The valley is brief, purposeful, and immediately followed by upturn.
+
+---
+
+PART IV — THE LAST BREAK (Ch19-24)
+Final arc goal: irreversible rupture, dread, catastrophe, grief, action.
+This section opens with an event (not a mood), descends into the north before
+ascending to the summit, then resolves through grief into motion. The architecture
+is: spike (Ch19) → measured dread (Ch20) → cold grief (Ch21) → summit (Ch22)
+→ tenderness (Ch23) → costly resolve (Ch24).
+
+  Ch  Title                              Optimal   Dominant Register
+  --------------------------------------------------------------------------------
+  19  The Letter That Cannot Be Recalled   9       Irreversible rupture. The family break moves from
+                                                   tension to event. One communication cannot be
+                                                   unsent. This chapter opens Part IV at near-summit
+                                                   level because Lena has already received the letter
+                                                   before the chapter ends. The event is in motion.
+
+  20  Winter North                         7       Dread and estrangement. The score drops from 9
+                                                   because Ruth has not yet arrived. She is still
+                                                   travelling. Dread is anticipatory. The chapter
+                                                   earns its lower score by being the space between
+                                                   rupture and confrontation. Without this chapter,
+                                                   the reader has no room to absorb Ch19's blow
+                                                   before Ch21 compounds it. This is an essential
+                                                   structural buffer.
+
+  21  No Homecoming                        8       Cold grief. The return is devastating. Ruth tries
+                                                   to move inside old routines and fails. Familiar
+                                                   objects are now accusatory. Anna remains a bond
+                                                   but not enough to restore the whole. The chapter
+                                                   ascends to 8 because everything that follows
+                                                   depends on the reader feeling that the home was
+                                                   once real — cold grief is only possible if love
+                                                   preceded it.
+
+  22  The Last Argument                   10       SUMMIT. Catastrophic recognition. The mother-
+                                                   daughter confrontation carries the full weight of
+                                                   every earlier chapter: class aspiration, Protestant
+                                                   shame, sexual rumour, Lena's misrecognitions, Anna
+                                                   as silent moral pressure, William unable to repair.
+                                                   This must feel both explosive and long prepared.
+                                                   The break is not theatrical liberation. It is
+                                                   irreversible recognition — that love and belonging
+                                                   have never been the same thing in this family.
+
+  23  What Remains of Family               7       The draft after the storm. Grief, tenderness, and
+                                                   moral clarity. Quiet scene with William. Exchange
+                                                   with Anna. The score at 7 rather than 5 because
+                                                   this chapter must remain active — departure is
+                                                   now inevitable, and the reader must feel the cost
+                                                   of what Ruth is about to do, not simply its
+                                                   rightness. The chapter earns the ending by not
+                                                   releasing the tension fully.
+
+  24  To Krugersdorp, Alone                8       Lonely resolve. The final chapter closes not at
+                                                   the peak (10) and not in relief (3-4), but at a
+                                                   sustained 8: the forward pull of a decision that
+                                                   has been made at real cost. The Krugersdorp
+                                                   departure must feel like destiny chosen through
+                                                   grief, not a clean escape. The novel ends on
+                                                   motion, not arrival. Open train or road, not
+                                                   destination. The reader carries the final
+                                                   incompletion forward.
+
+PART IV ARC SHAPE
+9 → 7 → 8 → 10 → 7 → 8
+The section opens near-peak, drops to dread, rises to cold grief, reaches the
+true summit, drops into tenderness, then rises again to costly resolve. The
+close at 8 (not 10, not 5) is the critical design decision: the novel should
+end with Ruth in motion at elevated pressure, not with achieved rest.
+
+
+================================================================================
+III. FULL CURVE — CONSOLIDATED VIEW
+================================================================================
+
+CHAPTER-BY-CHAPTER SCORES (OPTIMAL)
+
+Part I:   6 — 5 — 6 — 7 — 5
+Part II:  4 — 6 — 6 — 7 — 5
+Part III: 8 — 8 — 9 — 8 — 6 — 7 — 8 — 9
+Part IV:  9 — 7 — 8 — 10 — 7 — 8
+
+FULL SEQUENCE
+Ch01: 6    Ch07: 6    Ch13: 9    Ch19: 9
+Ch02: 5    Ch08: 6    Ch14: 8    Ch20: 7
+Ch03: 6    Ch09: 7    Ch15: 6    Ch21: 8
+Ch04: 7    Ch10: 5    Ch16: 7    Ch22: 10
+Ch05: 5    Ch11: 8    Ch17: 8    Ch23: 7
+Ch06: 4    Ch12: 8    Ch18: 9    Ch24: 8
+
+ASCII REPRESENTATION (each mark = one chapter, value on vertical axis)
+
+10 |                                         *
+ 9 |                *              *  *
+ 8 |          *  *  *     *     *  *        *  *
+ 7 |    *        *           *                 *  *
+ 6 |  *     *  *  *     *  *     *
+ 5 |     *              *
+ 4 |        *
+ 3 |
+ 2 |
+ 1 |
+    01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+
+KEY STRUCTURAL MOMENTS ON THE CURVE
+- Ch4 (7):   Hinge chapter. First irreversible moral perception. Sarah.
+- Ch6 (4):   The curve's lowest point. Warmth must carry undertow or it becomes
+             a hole in the structure, not a breathing space.
+- Ch13 (9):  First peak. Physical. The mountain and the body's survival.
+- Ch15 (6):  The deliberate valley between Ch13 and the second escalation.
+             Without it, Part III becomes a wall.
+- Ch18 (9):  Near-peak. Social exposure. The apparatus of judgment reactivated.
+- Ch22 (10): The summit. Relational and moral. The break that has been building
+             since the first chapter.
+- Ch24 (8):  The close holds elevation. Ruth does not land in rest. She departs.
+
+SYMMETRY ANALYSIS
+The novel achieves structural balance across its pivot at Ch13 through the
+following mirrored elements:
+
+  Opening movement (Ch1-5):
+  Ascent from 6 to moral hinge at 7, then corrective release at 5.
+  Ends on deliberate low.
+
+  Closing movement (Ch19-24):
+  Opens near-peak at 9 (the irreversible act has been committed), descends
+  to dread at 7, rises through grief at 8, peaks at 10, then releases to 7
+  before closing at 8.
+
+  The symmetry is not numerical identity — it is architectural: both the opening
+  and the closing arcs feature a corrective dip after the highest point in that
+  section, followed by a renewed rise. The novel opens on a promise of motion
+  (6) and closes on an act of motion (8). The moral weight between those two
+  moments of motion is the novel's argument.
+
+
+================================================================================
+IV. CURRENT STATE VERSUS OPTIMAL — CHAPTERS 1-7 DEVIATION AUDIT
+================================================================================
+
+NOTE ON SCORING METHOD
+Actual scores below reflect the qualitative QC audit performed across Ch1-7.
+They are the effective pressure level as currently written, not necessarily
+what those chapters were designed to achieve. Where Delta is negative, the
+chapter underperforms the optimal. Where positive, it overperforms.
+
+  Ch  Optimal   Actual   Delta   Status & Priority Action
+  -----------------------------------------------------------------------
+  1     6        5.5      -0.5   LOW DEVIATION. The identification arrival is
+                                 slightly delayed — Ruth remains more passive
+                                 than the 6/10 optimal requires. No rewrite
+                                 needed. Monitor through the next two chapters
+                                 to confirm identification is active by Ch2.
+
+  2     5        5         0     CLEAN. No action required.
+
+  3     6        6.5      +0.5   ACCEPTABLE DEVIATION. The Cohen apartment
+                                 seduction rises too readily — Ruth accepts the
+                                 warmth without the brief defensive misreading
+                                 that would earn the connection at 6. At 6.5 the
+                                 chapter edges toward the Ch4 hinge's territory,
+                                 compressing the moral space between them. LOW
+                                 PRIORITY: a single beat of Ruth holding back
+                                 before accepting the warmth would correct this.
+
+  4     7        7         0     CLEAN. The Sarah kitchen scene lands precisely.
+                                 The moral sting is correct. The brisket parcel
+                                 and the surname withheld are correctly planted.
+
+  5     5        4.5      -0.5   LOW DEVIATION. The chapter slides slightly below
+                                 optimal because the Antigone speech (which briefly
+                                 peaks this chapter to near-7) has no fallout into
+                                 Ch6 or Ch7. The consequence thread is open and
+                                 unacknowledged. The chapter's effective pressure
+                                 is diluted because it has planted a consequence
+                                 that the next two chapters refuse to pick up.
+                                 MEDIUM PRIORITY: A brief Stratford-Reid glance
+                                 or one line of avoidance in Ch6 would restore
+                                 pressure without requiring new prose.
+
+  6     4        4.0*      0*    NOMINALLY CLEAN — but structurally at HIGH RISK.
+                                 The score is correct in isolation but the chapter
+                                 violates Rule 4 (warmth chapters carry undertow)
+                                 because the Cohen Friday refuge has now appeared
+                                 in Ch3, Ch4, and Ch6 without any fracture.
+                                 Three consecutive warm Cohen visits with no cost
+                                 imposed on Ruth is a Frey zero-consequence
+                                 violation. The correct valence (4) is only valid
+                                 if the undertow is present. Without a fracture —
+                                 David's political photographs, the Group Areas
+                                 petition, or Marcus's risk — the chapter reads
+                                 at effective 3 (pure warmth) and becomes a
+                                 structural hole.
+                                 HIGH PRIORITY: Insert one fracture element in
+                                 Ch6 to activate the correct 4/10 register.
+                                 Options: David's photographs seen briefly,
+                                 a tense exchange about Marcus, or a single
+                                 reference to a community meeting that implies
+                                 danger without resolving it.
+
+  7     6        6         0     CLEAN on overall register. The Thomas veranda
+                                 scene achieves the cultural intoxication at the
+                                 correct level. The figure in the window arrest
+                                 is textbook Zeigarnik close. William's letter
+                                 thread is planted and correctly dormant.
+                                 WATCH: The three consecutive Cohen Friday visits
+                                 in Ch3, Ch4, Ch6 must be broken before the
+                                 reader's next contact with the Cohen world in
+                                 Ch9. If Ch9 arrives without this being addressed,
+                                 the Sarah-Cohen undertow will have dissipated
+                                 entirely and the moral hinge of Part II will
+                                 have no preceding tension to resolve.
+
+
+================================================================================
+V. OPEN ZEIGARNIK THREADS — STATUS AGAINST THE OPTIMAL CURVE
+================================================================================
+
+This section maps the open threads laid in Ch1-7 against the chapters where
+they must either partially resolve or deepen.
+
+THREAD 1 — WILLIAM'S LETTER (seeded Ch5, dormant Ch6-7)
+Optimal first acknowledgement: Ch8. By Ch10, Ruth must actively avoid it at
+least once on the page. The reader carries this open loop forward but will
+lose it if the thread is not touched by the end of Part II.
+Status: MEDIUM PRIORITY. Not yet missed but approaching the deadline.
+
+THREAD 2 — THE BRISKET PARCEL (seeded Ch4, unresolved)
+Optimal resolution window: before the end of Ch8. The object must be
+accounted for — eaten, thought of, discarded. If still unresolved by Ch9,
+it has become a loose end rather than a Zeigarnik plant.
+Status: MEDIUM PRIORITY. Practical resolution needed within two chapters.
+
+THREAD 3 — JUDITH'S SCARF (seeded Ch3, unresolved)
+Optimal resolution window: early Ch8 or Ch9. The scarf cannot neutrally
+reappear on Judith until it has been returned. The return should carry
+a small act of social grace or awkwardness that earns the Zeigarnik close.
+Status: MEDIUM PRIORITY.
+
+THREAD 4 — SARAH'S SURNAME (seeded Ch4 as deliberate withheld)
+This is not a loose end. It is a structural Zeigarnik device planted for
+deliberate long-term incompletion. Do not resolve before Ch12 at the earliest.
+The surname should arrive only when Ruth has earned the right to use it —
+when she has shown Sarah that she sees her world and not just her function.
+Status: HOLD. No action needed. Thread performing correctly.
+
+THREAD 5 — ANTIGONE CONSEQUENCE (seeded Ch5, unacknowledged Ch6-7)
+Optimal first acknowledgement: one glancing line in Ch8 — Stratford-Reid's
+gaze, a corridor slight, or one moment of cold shoulder from the Classics
+social group. No full confrontation: this is an undertow thread, not a
+plot engine. But without a single acknowledgement, the Ch5 plant dies.
+Status: MEDIUM PRIORITY.
+
+THREAD 6 — THREE COHEN VISITS WITHOUT FRACTURE (structural risk)
+Not a Zeigarnik thread per se, but a Frey zero-consequence risk. The Cohen
+warmth has been visited three times (Ch3, Ch4, Ch6) without cost. The next
+Cohen visit (Ch9, The Price of Ease) must include a fracture element to prevent
+the reader dismissing the Cohen household as pure comfort. The fracture should
+arise from within the household's own tensions (David's political activities,
+the Group Areas threat to Sarah's community, or the Cohen comfort-versus-
+conscience contradiction) rather than an external intrusion.
+Status: HIGH PRIORITY before Chapter 9.
+
+
+================================================================================
+VI. PRIORITY REPAIRS — ORDERED BY URGENCY
+================================================================================
+
+P1 — HIGHEST: Ch6 undertow fracture
+The Cohen refuge must carry one element of structural unease in its current
+state. David's political activities (photographs, Marcus, the Group Areas
+petition) are the ready instrument. The fracture should be brief — one exchange
+at the table that the Cohens deflect quickly — so that the warmth still
+dominates the chapter's register but the undertow is present and felt.
+
+P2 — HIGH: William's letter acknowledged in Ch8
+A single line in which Ruth is aware she has not opened it. The avoidance is the
+acknowledgement. The reader needs to know she knows it is there.
+
+P3 — MEDIUM: Antigone consequence thread — one glancing blow in Ch8
+Stratford-Reid's glance, or a single line of cold social register from the
+Classics world, reminding the reader (and Ruth) that the speech had witnesses.
+
+P4 — MEDIUM: Brisket parcel accounted for before end of Ch8
+An interior moment — Ruth eating it alone, thinking of Sarah, or putting the
+empty paper in the wastepaper bin — that closes the Ch4 domestic object loop
+while deepening the connection to Sarah's world.
+
+P5 — MEDIUM: Judith's scarf returned in Ch7 or Ch8
+A brief social exchange when the scarf changes hands. The return should register
+slightly awkward and slightly warm — the correct register for a friendship still
+learning what it is.
+
+P6 — MONITOR: Ch3 consent-on-first-contact with Cohen warmth
+Ruth accepts the Cohen household's warmth too readily in Ch3. If there is
+an opportunity in Ch8-9 to show Ruth looking back on this with slight
+discomfort — a realisation that her gratitude was perhaps too fast, too hungry
+— that retrospective beat would correct Ch3's mild overreach without requiring
+any change to the Ch3 text.
+
+
+================================================================================
+VII. DESIGN RATIONALE — KEY STRUCTURAL DECISIONS
+================================================================================
+
+WHY CH13 IS THE FIRST PEAK, NOT CH18 OR CH22
+The mountain chapter (Ch13) carries the physical crisis — the body in actual
+mortal danger. Placing this at the novel's midpoint (Ch13 of 24) has three
+functions:
+  1. It prevents the reader from arriving at the relational summit (Ch22) already
+     exhausted from a sustained physical climax earlier on the same arc.
+  2. It provides the rebirth motif that earns the second half of the novel: Ruth
+     has survived physically. The question becomes whether she can survive morally.
+  3. It creates the structural comparison that makes Ch22 inevitable: mountain
+     survival is a single terrible afternoon. The Lena rupture has been twenty
+     years in preparation. The reader should feel the difference in weight.
+
+WHY CH6 IS THE CURVE'S LOWEST POINT
+Ch6 sits at 4/10: the lowest scored chapter in the entire novel. This is not an
+accident or a weakness. Placing the emotional floor at Ch6 (not Ch1 or Ch2) has
+two functions:
+  1. The reader has now moved far enough through the novel that warmth feels
+     earned rather than premature. Two hard social chapters precede Ch6. The
+     warmth is therefore credible.
+  2. Immediately after the curve's floor, Part II opens its escalation sequence.
+     The reader enters Ch7's cultural intoxication from a position of emotional
+     openness, not of exhaustion. The contrast between Ch6's warmth and Ch7's
+     vitality is one of the novel's structural pleasures — but only if Ch6 does
+     not become so comfortable that the reader stops leaning forward.
+
+WHY CH24 CLOSES AT 8 AND NOT AT A LOWER SCORE
+A novel of this kind — in which the protagonist has suffered, broken free, and
+chosen a difficult autonomous direction — must not end on peace. Peace would
+be a lie about what this kind of life costs. But it must also not end on despair
+(which would make the preceding 23 chapters pointlessly accumulative). Closing
+at 8 — Ruth in motion, at elevated cost, without a destination fully visible —
+is the only honest ending: not triumphant, not defeated, but alive and still
+under the pressure of a chosen life.
+
+
+================================================================================
+VIII. REFERENCE SUMMARY
+================================================================================
+
+Source documents used:
+  - Between Two Worlds - Rewrite Blueprint.txt (chapter architecture, valence
+    scale, part goals, chapter beats, plateau prevention rules)
+  - Between Two Worlds - Canon Bible.txt (character canon, setting, Ruth's arc,
+    Zeigarnik structural canon, ending canon)
+  - Between Two Worlds 150k Expansion Map.txt (canonical 24-chapter target
+    structure, chapter titles, part groupings)
+  - Ch1-7 QC audit findings (qualitative valence assessment from active
+    manuscript reads, conducted prior to this document's creation)
+
+This document should be consulted:
+  - Before drafting or expanding any chapter in Ch8-24
+  - Before any structural edit to Ch1-7 that affects the chapter's pressure
+    level or its Zeigarnik threads
+  - When assessing whether a new scene or expansion is justified by the arc
+  - As the structural authority when the Rewrite Blueprint and the actual
+    manuscript diverge in emotional register
+
+================================================================================
+END OF DOCUMENT
+================================================================================

@@ -1,4 +1,4 @@
-# The Weight of Silence
+# Frans
 
 ## Chapter 1: The Heavy Air (Nelie)
 The doctors had words for it, cold and sharp as sterile steel, but none of them described the weight of my son. Frans was born with a stillness that broke my heart. When the other boys in the neighborhood were learning to walk and babble, Frans remained locked in a small, fragile body that refused to obey him. His wheelchair became his second skin, his slurred, unintelligible sounds his only voice. I loved him with a desperation that tasted like ash, knowing the world would only ever see a broken thing, while I saw my beautiful boy trapped behind a wall of silence.
